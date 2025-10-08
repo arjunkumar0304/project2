@@ -1,4 +1,6 @@
-touch test3.txt
-nano test3.txt
-data analyst
+data analyst 
+powerbi
+sql
+py
+excel
 
